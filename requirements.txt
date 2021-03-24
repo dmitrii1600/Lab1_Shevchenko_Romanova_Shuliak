@@ -55,7 +55,7 @@ pywin32==227
 pyzmq==19.0.1
 requests==2.21.0
 requests-html==0.10.0
-rsa==4.0
+rsa==4.1
 selectolax==0.2.3
 simplegeneric==0.8.1
 six==1.12.0
